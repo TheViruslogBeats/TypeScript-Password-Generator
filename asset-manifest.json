@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1c44ed5.css",
-    "main.js": "/static/js/main.7e0e4351.js",
-    "index.html": "/index.html",
-    "main.a1c44ed5.css.map": "/static/css/main.a1c44ed5.css.map",
-    "main.7e0e4351.js.map": "/static/js/main.7e0e4351.js.map"
+    "main.css": "/TypeScript-Password-Generator/static/css/main.a1c44ed5.css",
+    "main.js": "/TypeScript-Password-Generator/static/js/main.7e0e4351.js",
+    "index.html": "/TypeScript-Password-Generator/index.html",
+    "main.a1c44ed5.css.map": "/TypeScript-Password-Generator/static/css/main.a1c44ed5.css.map",
+    "main.7e0e4351.js.map": "/TypeScript-Password-Generator/static/js/main.7e0e4351.js.map"
   },
   "entrypoints": [
     "static/css/main.a1c44ed5.css",
